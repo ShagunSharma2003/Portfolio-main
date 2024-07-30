@@ -1,53 +1,72 @@
-<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://portfolio-devanshsahni.vercel.app/">devanshsahni</a></h2>
+# Shagun Sharma's Portfolio Website
 
-<br/>
-
-## Fork 
-<p>Feel free to fork this repo to modify and make changes of your own. Please give me proper credit by linking it back to this repo. Thanks! 
-  <br/> 
-  The design for this project is inspired by <a href="https://github.com/soumyajit4419/Portfolio">Saumjyajit's portfolio.</a></p>
-
-## About 
-<p>This project is my personal portfolio which features some of my skills, GitHub projects and my resume.</p>
-<p>These technologies are used to build this website:</p>
-<ul>
-  <li>React.js</li>
-  <li>Git</li>
-  <li>npm packages</li>
-  <li>Vercel</li>
-</ul>
-
-<p>Some of the features of this website are:</p>
-<ul>
-  <li>Multi-page layout</li>
-  <li>Fully responsive</li>
-  <li>Preloader</li>
-  <li>Refresh on clicking logo</li>
-</ul>
-
-<p>npm packages used:</p>
-<ul>
-  <li><a target="_blank" href="https://www.npmjs.com/package/lottie-react">lottie-react</a>: For the animations used in the website.</li>
-  <li><a href="https://www.npmjs.com/package/react-spinners">react-spinners</a>: For the preloader animation.</li>
-  <li><a href="https://www.npmjs.com/package/react-icons">react-icons</a>: For all the icons.</li>
-  <li><a href="https://www.npmjs.com/package/typewriter-effect">typewriter-effect</a>: The typing effect on the home page.</li>
-  <li><a href="https://www.npmjs.com/package/react-pdf">react-pdf</a>: To preview the resume pdf</li>
-  <li><a href="https://www.npmjs.com/package/react-parallax-tilt">react-parallax-tilt</a>: To apply tilt hover effect on react components like image and animation.</li>
-</ul>
+Welcome to my personal portfolio website, where I showcase my skills, projects, and professional journey. This portfolio is designed to provide an insight into my work as a web developer and my interests in technology and fashion.
+![image](https://github.com/user-attachments/assets/252e4e84-158c-43de-acc9-256af8a6d700)
 
 
-## Getting started 🛠️
-<p>You need to have git installed on your system to modify this repo.</p>
-<ol>
-  <li>Fork this repo from the fork option on top of my GitHub repo.</li>
-  <li>After completing the fork, move to the copied repo in your account and copy the HTTPS link from the code option.</li>
-  <li>Now in the terminal of your system(in vs code or any third party terminal) cd over to the location where you want to store this project & write, git clone copied link</li>
-  <li>This would create a copy in your local system and link it to the forked repo.</li>
-  <li>Now open this project in your desirable IDE and in the terminal write npm i, this would install all the necessary npm packages.</li>
-  <li>You can write npm start in the terminal to open the project in development mode. Open http://localhost:3000 to view in the browser. This page should reload when you make any changes.</li>
-</ol>
-<p>You can browse the project and make changes according to your will.</p>
+## Table of Contents
 
-## Support
-<p>Show your support by leaving a star ⭐ on this repo, if you like the website.</p>
-<p>Fell free to point out any bugs🪲 or improvements in the issues tab.</p>
+- [About Me](#about-me)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Projects](#projects)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
+## About Me
+
+Hello! I'm Shagun Sharma, a web developer with a passion for building functional and visually appealing websites. My portfolio reflects my journey and expertise in various technologies. I am a curious learner, always eager to explore new technologies and enhance my skills.
+
+## Features
+
+- **Interactive Animations**: The website includes engaging animations created using Lottie and React Lottie.
+- **Responsive Design**: Ensures a seamless experience across different devices.
+- **Project Showcase**: Detailed descriptions of my projects with links to GitHub repositories and live demos.
+- **Dynamic Content**: Uses React to manage state and dynamic content.
+
+## Technologies Used
+
+- **Front-End**: React, JavaScript, HTML, CSS
+- **Animations**: Lottie
+- **Icons**: React Icons
+- **Additional Libraries**: react-parallax-tilt, react-pdf
+
+## Projects
+
+The portfolio features several projects, including:
+
+1. **Cafe Management Website**: A site for managing cafe operations, including menu navigation, table booking, and food ordering.
+   - [GitHub Repository](https://github.com/ShagunSharma2003/CoffeeShop)
+   - [Live Demo](https://github.com/ShagunSharma2003/CoffeeShop)
+
+2. **Weather App**: An app that displays weather information for various cities using React and a weather API.
+   - [GitHub Repository](https://github.com/ShagunSharma2003/weather-app)
+   - [Live Demo](https://shagunsharma2003.github.io/weather-app/)
+
+3. **QR Code Generator**: Generates QR codes for text or links entered by the user.
+   - [GitHub Repository](https://github.com/ShagunSharma2003/qr-code)
+   - [Live Demo](https://shagunsharma2003.github.io/qr-code/)
+
+4. **To-Do List**: A task management app built with React, allowing users to add, remove, and track tasks.
+   - [GitHub Repository](https://github.com/ShagunSharma2003/to-do-list)
+   - [Live Demo](https://shagunsharma2003.github.io/to-do-list/)
+
+
+## Usage
+
+Visit the website to explore my work, learn more about my background, and view live demonstrations of my projects.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue on GitHub.
+
+
+## Contact
+
+For any inquiries or collaboration opportunities, you can reach me at:
+
+- Email:sharma.diva193@gmail.com)
+- LinkedIn:www.linkedin.com/in/shagunsharma2003
+
+Thank you for visiting my portfolio!
